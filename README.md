@@ -116,9 +116,13 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 ### Heading ID
 
-### Custom id go to cheat-sheet {#cheat-sheet}
+### My Great Heading {#custom-id}
 
 ### Definition List
 
- term
-: definition
+First Term
+: This is the definition of the first term.
+
+Second Term
+: This is one definition of the second term.
+: This is another definition of the second term.
