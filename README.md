@@ -1,6 +1,6 @@
 # Markdown
 - Markdown is a open-scoure markup language
-- plain text that converts to a Rich HTML document
+- Plain text that converts to a Rich HTML document
 
 ## File Extension
 - .markdown
@@ -88,4 +88,9 @@
     
    [^1]: This is a footernote.
    [^2]: This is a footernote example. 
+
+### Heading ID
+### My Great Heading {#custom-id}
+
+### Definition List
   
