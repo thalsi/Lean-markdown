@@ -132,4 +132,6 @@ These elements extend the basic syntax by adding additional features. Not all Ma
     - [x] Task one do it.
     - [ ] Task two do it.
     - [ ] Task three do it.
-  
+
+8. Emoji
+That is so funny! :joy:  
