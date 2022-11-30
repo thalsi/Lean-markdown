@@ -11,4 +11,11 @@
 - .mdown
 
 ### 2.Comments
+- Github markdown comments
+- comments are two type
+  1. inline comments
+  2. block comments
 
+for example
+This is a inline comments
+{:: comment} inline comments {:/ comment}
