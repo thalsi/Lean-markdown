@@ -93,4 +93,5 @@
 ### My Great Heading {#custom-id}
 
 ### Definition List
-  
+  term
+: definition
