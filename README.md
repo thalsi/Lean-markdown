@@ -141,7 +141,9 @@ These elements extend the basic syntax by adding additional features. Not all Ma
     - This is ==highlight== 
 
 10. Subscript
-     - H~2~o
+
+H~2~o
       
 11. Superscript 
-     - X^2^
+
+X^2^
