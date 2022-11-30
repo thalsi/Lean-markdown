@@ -70,8 +70,16 @@
 
 1. Table
 
-| ID | Title |
-| --- | ---- |
-| 1 | Annu |
-| 2 | Tinu |
+  | ID | Title |
+  | --- | ---- |
+  | 1 | Annu |
+  | 2 | Tinu |
+
+2. Fenced Code Block
+  ```
+  {
+    "id":"1",
+    "name:"Manu"
+  }
+  ```
 
