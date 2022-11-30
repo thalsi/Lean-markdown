@@ -17,5 +17,5 @@
   2. block comments
 
 for example
-This is a inline comments
+- This is a inline comments
 {:: comment} inline comments {:/ comment}
