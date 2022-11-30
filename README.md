@@ -69,6 +69,7 @@
 ## 2.Extended Syntax
 
 1. Table
+
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
