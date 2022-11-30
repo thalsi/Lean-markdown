@@ -90,8 +90,10 @@
    [^2]: This is a footernote example. 
 
 ### Heading ID
+
 ### My Great Heading {#custom-id}
 
 ### Definition List
-  term
+
+ term
 : definition
