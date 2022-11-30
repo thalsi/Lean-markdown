@@ -70,8 +70,8 @@
 
 1. Table
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| ID | Title |
+| --- | ---- |
+| 1 | Annu |
+| 2 | Tinu |
 
