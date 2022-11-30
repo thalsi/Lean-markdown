@@ -55,3 +55,9 @@
 
 8. Horizontal Rule
 ---
+
+9. Link
+[google](https://www.gooogle.com)
+
+10. Image
+![cat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fcat%2F&psig=AOvVaw3yG_f-WgfGD1VKFEHnWUNz&ust=1669896381463000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCG1_bu1fsCFQAAAAAdAAAAABAO)
