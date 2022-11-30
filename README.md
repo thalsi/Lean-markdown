@@ -46,8 +46,18 @@
 
 6. Unordered List
     - One
+       - a
+       - b
     - Two
     - Three
+    
+    * One
+    * Two
+    * Three
+    
+    + One
+    + Two
+    + Three
 
 7. Code
   `var str = "javascprit";`
