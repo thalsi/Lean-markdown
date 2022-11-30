@@ -73,6 +73,12 @@
 9. Link
 -Goolge click link [google](https://www.google.com)
 
+- Formatting Links below:-
+- Google link **[Click Google](https://www.google.com)**
+- Google link *[Click Google](https://www.google.com)*
+- Section link [`code`](#code)
+
+
 10. Image
 ![alt text](login-bg.png)
 
