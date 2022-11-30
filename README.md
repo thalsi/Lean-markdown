@@ -62,6 +62,9 @@
 7. Code
   `var str = "javascprit";`
   `console.log(str);`
+  
+  
+  `` let some code is here `console.log(str);` it is a debug tool``
 
 8. Horizontal Rule
 ---
@@ -70,7 +73,7 @@
 -Goolge click link [google](https://www.google.com)
 
 10. Image
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rd.com%2Flist%2Fblack-cat-breeds%2F&psig=AOvVaw3yG_f-WgfGD1VKFEHnWUNz&ust=1669896381463000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCG1_bu1fsCFQAAAAAdAAAAABAT)
+![alt text](login-bg.png)
 
 
 
