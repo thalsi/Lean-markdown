@@ -48,3 +48,7 @@
     - One
     - Two
     - Three
+
+7. Code
+  `var str = "javascprit";
+  console.log(str);`
