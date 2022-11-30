@@ -2,7 +2,7 @@
 - Markdown is a open-scoure markup language
 - plain text that converts to a Rich HTML document
 
-## 1.File Extension
+## File Extension
 - .markdown
 - .md
 - .mkd
@@ -10,11 +10,12 @@
 - .text
 - .mdown
 
-## 2.Cheat Sheet
+## Cheat Sheet
   1. Basic Syntax
   2. Extended Syntax
   
-### Basic Syntax
+## 1.Basic Syntax
+
 1. Heading
   # Title
   ## Title
@@ -24,9 +25,11 @@
   ###### Title
 
 2. Bold
+
 **Bold text**
 
 3. Italic
+
 *Italic text*
 _Italic text_
 
