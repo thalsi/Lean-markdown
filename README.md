@@ -84,5 +84,8 @@
   ```
 3. Footnote
 
-Here a sentace with footnote. [^1]
-
+   Here a sentace with footnote. [^1] [^2]
+    
+   [^1]: This is a footernote.
+   [^2]: This is a footernote example. 
+  
