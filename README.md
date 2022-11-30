@@ -69,7 +69,8 @@
 ## 2.Extended Syntax
 
 1. Table
-  | Id | Title |
-  |----|-------|
-  | 1  | abc   |
-  | 2  | abcd  |
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
