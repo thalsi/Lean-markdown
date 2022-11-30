@@ -76,7 +76,7 @@
 - Formatting Links below:-
 - Google link **[Click Google](https://www.google.com)**
 - Google link *[Click Google](https://www.google.com)*
-- Section link [`code`](#code)
+- Section link [`File Extension`](#File Extension)
 
 
 10. Image
