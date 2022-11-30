@@ -17,12 +17,12 @@
 ## 1.Basic Syntax
 
 1. Heading
-          # Title
-          ## Title
-          ### Title
-          #### Title
-          ##### Title
-          ###### Title
+      # Title
+      ## Title
+      ### Title
+      #### Title
+      ##### Title
+      ###### Title
 
 2. Bold
 
