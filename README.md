@@ -3,16 +3,16 @@
 - plain text that converts to a Rich HTML document
 
 ## File Extension
-    - .markdown
-    - .md
-    - .mkd
-    - .mkdown
-    - .text
-    - .mdown
+- .markdown
+- .md
+- .mkd
+- .mkdown
+- .text
+- .mdown
 
 ## Cheat Sheet
-    1. Basic Syntax
-    2. Extended Syntax
+1. Basic Syntax
+2. Extended Syntax
   
 ## 1.Basic Syntax
 
