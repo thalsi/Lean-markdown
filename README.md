@@ -76,7 +76,7 @@
 - Formatting Links below:-
 - Google link **[Click Google](https://www.google.com)**
 - Google link *[Click Google](https://www.google.com)*
-- Section link [`cheat-sheet`](#cheat-sheet)
+- Section link [`Cheat sheet`](#cheat-sheet)
 
 
 10. Image
