@@ -38,11 +38,11 @@
   > "I am a superman. i can do anything.." 
 
 5. Ordered List
-    1.One
-    2.Two
-    3.Three
+    1. One
+    2. Two
+    3. Three
 
 6. Unordered List
-    -One
-    -Two
-    -Three
+    - One
+    - Two
+    - Three
