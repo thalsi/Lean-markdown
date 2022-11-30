@@ -64,10 +64,11 @@
   `console.log(str);`
   
   
-  `` let some code is here `console.log(str);` it is a debug tool``
+  `` this is javascprit `console.log(str);` it is a debug tool``
 
 8. Horizontal Rule
 ---
+
 
 9. Link
 -Goolge click link [google](https://www.google.com)
@@ -76,7 +77,10 @@
 ![alt text](login-bg.png)
 
 
+11. URLs and Email Addresses
 
+<https://www.markdownguide.org>
+<fake@example.com>
 
 
 ## 2.Extended Syntax
