@@ -1,8 +1,8 @@
 # Markdown
 - Markdown is a open-scoure markup language
--  plain text that converts to a Rich HTML document
+- plain text that converts to a Rich HTML document
 
-### 1.File Extension
+## 1.File Extension
 - .markdown
 - .md
 - .mkd
@@ -10,12 +10,23 @@
 - .text
 - .mdown
 
-### 2.Comments
-- Github markdown comments
-- comments are two type
-  1. inline comments
-  2. block comments
+## 2.Cheat Sheet
+  1. Basic Syntax
+  2. Extended Syntax
+  
+### Basic Syntax
+1. Heading
+  # Title
+  ## Title
+  ### Title
+  #### Title
+  ##### Title
+  ###### Title
 
-for example
-- This is a inline comments
-{:: comment} inline comments {:/ comment}
+2. Bold
+**Bold text**
+
+3. Italic
+*Italic text*
+_Italic text_
+
