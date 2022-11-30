@@ -82,4 +82,6 @@
     "name:"Manu"
   }
   ```
+3. Footnote
+Here a sentace with footnote. [^1]
 
