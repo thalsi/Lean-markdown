@@ -50,5 +50,8 @@
     - Three
 
 7. Code
-  `var str = "javascprit";
-  console.log(str);`
+  `var str = "javascprit";`
+  `console.log(str);`
+
+8. Horizontal Rule
+---
