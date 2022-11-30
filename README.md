@@ -114,15 +114,22 @@ These elements extend the basic syntax by adding additional features. Not all Ma
    [^1]: This is a footernote.
    [^2]: This is a footernote example. 
 
-### Heading ID
+### 4.My Great Heading {#custom-id}
 
-### My Great Heading {#custom-id}
+5. Definition List
 
-### Definition List
+    First Term
+    : This is the definition of the first term.
 
-First Term
-: This is the definition of the first term.
+    Second Term
+    : This is one definition of the second term.
+    : This is another definition of the second term.
 
-Second Term
-: This is one definition of the second term.
-: This is another definition of the second term.
+6. Strikethrough
+  ~~ delete this line ~~
+  
+7. Task List
+    - [x] Task one do it.
+    - [ ] Task two do it.
+    - [ ] Task three do it.
+  
