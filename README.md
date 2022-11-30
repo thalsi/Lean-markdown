@@ -57,7 +57,19 @@
 ---
 
 9. Link
--Goolge click link [google](https://www.gooogle.com)
+-Goolge click link [google](https://www.google.com)
 
 10. Image
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fcat%2F&psig=AOvVaw3yG_f-WgfGD1VKFEHnWUNz&ust=1669896381463000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCG1_bu1fsCFQAAAAAdAAAAABAO)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rd.com%2Flist%2Fblack-cat-breeds%2F&psig=AOvVaw3yG_f-WgfGD1VKFEHnWUNz&ust=1669896381463000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCG1_bu1fsCFQAAAAAdAAAAABAT)
+
+
+
+
+
+## 2.Extended Syntax
+
+1. Table
+  | Id | Title |
+  |----|-------|
+  | 1  | abc   |
+  | 2  | abcd  |
