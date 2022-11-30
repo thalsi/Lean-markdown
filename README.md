@@ -134,4 +134,5 @@ These elements extend the basic syntax by adding additional features. Not all Ma
     - [ ] Task three do it.
 
 8. Emoji
-That is so funny! :joy:  
+   - That is so funny! :joy:  
+   - [Emoji is here](https://emojipedia.org/)
