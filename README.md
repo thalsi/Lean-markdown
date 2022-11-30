@@ -136,3 +136,12 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 8. Emoji
    - That is so funny! :joy:  
    - [Emoji is here](https://emojipedia.org/)
+ 
+9. Highlight
+    - This is ==highlight== 
+
+10. Subscript
+      H~2~o
+      
+11. Superscript 
+      x^2^
