@@ -91,6 +91,7 @@
 
 
 ## 2.Extended Syntax
+These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
 
 1. Table
 
@@ -115,7 +116,7 @@
 
 ### Heading ID
 
-### My Great Heading {#custom-id}
+### Custom id go to cheat-sheet {#cheat-sheet}
 
 ### Definition List
 
