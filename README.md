@@ -68,7 +68,8 @@
 
 8. Horizontal Rule
 ---
-
+***
+___
 
 9. Link
 -Goolge click link [google](https://www.google.com)
