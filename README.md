@@ -79,6 +79,13 @@ ___
 - Google link *[Click Google](https://www.google.com)*
 - Section link [`Cheat sheet`](#cheat-sheet)
 
+- Here link 1 google [link 1]
+- Here link 2 gitlab [link 2]
+
+
+[link 1]: www.google.com
+[link 2]: www.gitlab.com
+
 
 10. Image
 ![alt text](login-bg.png)
