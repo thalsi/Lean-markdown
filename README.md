@@ -90,6 +90,12 @@ ___
 10. Image
 ![alt text](login-bg.png)
 
+this other methord [Git image][image]
+this other moethord [Father][father]
+[iamge]:https://octodex.github.com/images/bannekat.png
+[father]: http://octodex.github.com/images/founding-father.jpg
+
+
 
 11. URLs and Email Addresses
 
