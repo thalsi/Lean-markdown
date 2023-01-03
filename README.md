@@ -161,3 +161,22 @@ H~2~o
 11. Superscript 
 
 X^2^
+___
+### Practice
+
+1. What is the markdown?
+2. How much file extension? which one?
+3. How much sytax types?
+4. Which are the Basic syntax?
+5. Write title?
+6. How much writing style for Italic. Write Italic?
+7. Write Blockquote?
+8. How much listing type?
+9. Write order list?
+10. Write unorder list? different methords.
+11. Write single-code and double-code?
+12. Write Horizontal Rule?
+13. Write Link? use 5 Format. 
+14. write Image? should use 2 methord
+15. write URL and email?
+16. Which are the Extended Syntax?
