@@ -1,6 +1,9 @@
 # Markdown
 - Markdown is a open-scoure markup language
 - Plain text that converts to a Rich HTML document
+- Rich Text is a format for storing documents. look like DOC or ODT
+
+- If you need advanced functionality with flexible styling options or you want to use a fancy email signature, use the HTML format. If you're only looking for adjustable text options, such as italics or bolding, use the Rich Text format. When you just want text and no other options, you can use the Plain Text format.
 
 ## File Extension
 - .markdown
