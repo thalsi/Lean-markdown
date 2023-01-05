@@ -168,18 +168,19 @@ ___
 ### Practice
 
 1. What is the markdown?
-2. How much file extension? which one?
-3. How much sytax types?
-4. Which are the Basic syntax?
-5. Write title?
-6. How much writing style for Italic. Write Italic?
-7. Write Blockquote?
-8. How much listing type?
-9. Write order list?
-10. Write unorder list? different methords.
-11. Write single-code and double-code?
-12. Write Horizontal Rule?
-13. Write Link? use 5 Format. 
-14. write Image? should use 2 methord
-15. write URL and email?
-16. Which are the Extended Syntax?
+2. Can you write some file extension? (6)
+3. How many sytax types?
+4. Can you write all Basic syntax?
+5. Can you write Heading? how many style?
+6. Can you write Bold?
+7. Can you write Italic. how many style?
+8. Write Blockquote?
+9. How many listing type?
+10. Can you write order list. and nexted order list?
+11. Can you write un order list? different methords and nexted?
+12. Write single-code and double-code?
+13. Write Horizontal Rule? how many style?
+14. Write Link? how many style. 
+15. write Image?  how many style.
+16. write URL and email?
+17. Which are the Extended Syntax?
