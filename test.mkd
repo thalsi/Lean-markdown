@@ -1,17 +1,96 @@
 1. What is the markdown?
+- Markdown language is a open scoure
+- Plan text covert to rich html
+- rich html is storing documents. like doc 
+
 2. Can you write some file extension? (6)
+.md
+.mkd
+.mdown
+.markdown
+
 3. How many sytax types?
+-two type
+- basic sytax and extended sytax
+
 4. Can you write all Basic syntax?
+- header
+- image
+- url and emailadress
+- horizoal line
+- orderlist and un oederlist
+- italic and bold
+- code 
+- blockqoutes
+- link
+
 5. Can you write Heading? how many style?
+6 format
+# Hader
+## Hader
 6. Can you write Bold?
+**bold**
 7. Can you write Italic. how many style?
+Two
+_Italic_
+*Italic*
+
 8. Write Blockquote?
+> "bockqouter"
 9. How many listing type?
+- two type. one is order list and un-order list
+
 10. Can you write order list. and nexted order list?
+1. item
+    1. item1
+    2. item2
+2. item2
+
 11. Can you write un order list? different methords and nexted?
+    * item
+        * item
+        * item
+    * item
+
+    + item
+        + item1
+        + item2
+    + item
+
+    - item
+        - item
+        - item2
+    - item2
 12. Write single-code and double-code?
+` it is a single code`
+
+``item are the `console.log()` are done  ``
 13. Write Horizontal Rule? how many style?
+three
+___
+***
+---
 14. Write Link? how many style. 
+[google](https://www.google.com)
+
+formating
+**[click goole](https://www.google.com)**
+*[click googel](https://www.google.com)*
+section[`section link`](#hader)
+there ARE [link 1]
+
+[link 1]: https://www.google.com
+
 15. write Image?  how many style.
+two type 
+![image] (image/logo.png)
+
+gobal image [cat] [image1]
+
+[image1]:https:www.image.come/cat.png
+
 16. write URL and email?
+<git@gmail.com>
+<https://www.google.com>
+
 17. Which are the Extended Syntax?
