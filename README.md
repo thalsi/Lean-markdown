@@ -86,8 +86,8 @@ ___
 - Here link 2 gitlab [link 2]
 
 
-[link 1]: www.google.com
-[link 2]: www.gitlab.com
+[link 1]: (https://www.google.com)
+[link 2]: (https://www.gitlab.com)
 
 
 10. Image
