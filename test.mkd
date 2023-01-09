@@ -1,96 +1,100 @@
 1. What is the markdown?
-- Markdown language is a open scoure
-- Plan text covert to rich html
-- rich html is storing documents. like doc 
+- markdown language is open scoure
+- Plan text converts to rich html
+- Rich html storing documentions. like doc or odt
+- more functinaly more relable avlivabe you can use html. rich html is jesut ajdesust text and such as bold and italic stlye . no more option use can you plan text .
 
 2. Can you write some file extension? (6)
+.mdk
 .md
-.mkd
-.mdown
 .markdown
+.mdown
 
 3. How many sytax types?
--two type
-- basic sytax and extended sytax
+- basic sytax
+- extended systax
 
 4. Can you write all Basic syntax?
 - header
+- link 
 - image
-- url and emailadress
-- horizoal line
-- orderlist and un oederlist
-- italic and bold
+- adress and url
+- horizondal 
+- order list and unorder list
+- bold and italic 
+- blockqouation
 - code 
-- blockqoutes
-- link
 
 5. Can you write Heading? how many style?
-6 format
-# Hader
-## Hader
+# Header
+## Header
+
 6. Can you write Bold?
 **bold**
+__bold__
+
 7. Can you write Italic. how many style?
-Two
-_Italic_
-*Italic*
+_italic_
+*italic*
 
 8. Write Blockquote?
-> "bockqouter"
+> "this is blockquote"
+
 9. How many listing type?
-- two type. one is order list and un-order list
+Tow type one is orderlist and un-oderlist
 
 10. Can you write order list. and nexted order list?
 1. item
-    1. item1
-    2. item2
-2. item2
+    1. inner item1
+    2. inner item2
+2. item 
 
 11. Can you write un order list? different methords and nexted?
-    * item
-        * item
-        * item
-    * item
+- item
+    - inner item1
+    - inner item2 
+- item2
 
-    + item
-        + item1
-        + item2
-    + item
++ item
+    + inner item
+    + inner item
++ item
 
-    - item
-        - item
-        - item2
-    - item2
+* item
+    * inner item
+    * inner item
+* item 
+
 12. Write single-code and double-code?
-` it is a single code`
-
-``item are the `console.log()` are done  ``
+`single code `
+``it is double `code` done``
 13. Write Horizontal Rule? how many style?
-three
+we can write three format
 ___
 ***
 ---
+
 14. Write Link? how many style. 
-[google](https://www.google.com)
+[google link](https://www.google.com)
+**[google link](https://www.google.com)**
+_[google link](https://www.google.com)_
 
-formating
-**[click goole](https://www.google.com)**
-*[click googel](https://www.google.com)*
-section[`section link`](#hader)
-there ARE [link 1]
+[`Header`](#header)
 
-[link 1]: https://www.google.com
+here [github]
+
+
+[github]: https://www.github.com
 
 15. write Image?  how many style.
-two type 
-![image] (image/logo.png)
+![cat](cat.png)
 
-gobal image [cat] [image1]
+here url base [car image name][car]
 
-[image1]:https:www.image.come/cat.png
+[car]:https//www.image.com/car.png
 
 16. write URL and email?
-<git@gmail.com>
 <https://www.google.com>
-
+<abc@gmail.com>
+śā
 17. Which are the Extended Syntax?
