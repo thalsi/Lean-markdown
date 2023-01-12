@@ -1,95 +1,77 @@
 
 1. What is the markdown?
-- markdown language is a opensocure
-- plan text to converts rich html
-- rich html is storing documention. like doc or otd
-- html is more relaible and more fixeble. rich html more options such as bold and italic 
-
+ - markdown langauge is open socure
+ - plan text converts strong documentions. like dot or dot
+ - html more fixlible and more relablity . plan text better option in rich html such as bold and ltalic
 2. Can you write some file extension? (6)
+.markdown 
 .mkd
-.md
-.markdown
 .mdown
-
+.md
 3. How many sytax types?
-those are two type 
-basic sytax and exeded sytax
-
+basic and extented
 4. Can you write all Basic syntax?
-italic, bold, order-list, un-order list, link , bolckqoutes, email and url , code , image , Haeder 
+header 
+link
+oder list and un-oader list
+code 
+qouterblock
+image
+url and email
+bold and italic
+horizotail line
 5. Can you write Heading? how many style?
 # Header
-## Header2
 6. Can you write Bold?
-__BOLD__
-**Bold**
-
+**bold**
+__bold__
 7. Can you write Italic. how many style?
-_italic_
-*italic*
-
+_itatic_
+*italic_
 8. Write Blockquote?
-> "I jesut like italic"
+> "i am a super man"
 9. How many listing type?
-two list
+two type
 10. Can you write order list. and nexted order list?
 1. item
     1. inner item
-2. item 
-
+    2. inner item
+2. item
 11. Can you write un order list? different methords and nexted?
 * item
-    * inner item
-    * inner item
+    * inner item 
 * item
 
 + item
-    + item
-    + item
+    + inner item
 + item
 
 - item
-    - item
-    - item
+    - inner item
 - item
-
 12. Write single-code and double-code?
-`code here`
-``here use `code` like``
-
+`code`
+`` code is `new` thinking ``
 13. Write Horizontal Rule? how many style?
 ___
 ---
 ***
 
 14. Write Link? how many style. 
-[google](htttps//www.google.com)
-_[google](htttps//www.google.com)_
-__[google](htttps//www.google.com)__
+here [google](https://www.google.com)
+second [`click to hader`](#header)
+thrid git lab [gitlab]
 
-[`hader click`](#header)
-
-[gitlab]: https//www.gitlab.com
-
+[gitlab]:https://www.gitlab.com:
 
 
 15. write Image?  how many style.
-![iamge](cat.png)
-cat image is here [cat image][cat]
+![cat](car.png)
 
-[cat]:https://www.google.com/cat.png
+image here [cat image] [cat]
+
+[cat]:https://www.cat.com/cat.png
 16. write URL and email?
+<a@gmai.com>
 <https://www.google.com>
-<a@gmail.com>
 17. Which are the Extended Syntax?
-table
-fanced code bolck
-footer note
-custom hader
-defintion list
-Strikethrough
-task list
-emoji
-higliths
-subsrpict
-supersrpit
