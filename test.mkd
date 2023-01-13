@@ -1,77 +1,87 @@
 
 1. What is the markdown?
- - markdown langauge is open socure
- - plan text converts strong documentions. like dot or dot
- - html more fixlible and more relablity . plan text better option in rich html such as bold and ltalic
+- markdown language is a open socre
+- plan text converts to rich html .like doc or odt
+- rich html use stroing documention
+- rich html more option such as bold and italic. plan text jeust text .html more filxeble and more options 
 2. Can you write some file extension? (6)
 .markdown 
+.md
 .mkd
 .mdown
-.md
 3. How many sytax types?
-basic and extented
+basic and extended
 4. Can you write all Basic syntax?
-header 
-link
-oder list and un-oader list
-code 
-qouterblock
-image
-url and email
+Header
 bold and italic
-horizotail line
+code 
+blockqutors
+order list and un order list
+url and email
+image
+link
+
 5. Can you write Heading? how many style?
 # Header
+## Header2
 6. Can you write Bold?
-**bold**
 __bold__
+**bold**
+
 7. Can you write Italic. how many style?
-_itatic_
-*italic_
+
+*italic*
+_italic_
 8. Write Blockquote?
-> "i am a super man"
+> "i am super man.."
 9. How many listing type?
 two type
 10. Can you write order list. and nexted order list?
 1. item
     1. inner item
-    2. inner item
 2. item
 11. Can you write un order list? different methords and nexted?
-* item
-    * inner item 
-* item
-
 + item
-    + inner item
+    + item 1
+    + item 2
 + item
 
 - item
-    - inner item
-- item
+    - item
+    - item
+- item 
+
+* item
+    * item
+* item
+
 12. Write single-code and double-code?
-`code`
-`` code is `new` thinking ``
+`code here`
+`` here write `code` doing ``
 13. Write Horizontal Rule? how many style?
 ___
 ---
 ***
-
 14. Write Link? how many style. 
-here [google](https://www.google.com)
-second [`click to hader`](#header)
-thrid git lab [gitlab]
+[google](https://ww.gooole.com)
+*[google](https://ww.gooole.com)*
 
-[gitlab]:https://www.gitlab.com:
+[`Hader click`](#header)
+
+here [google] [google]
+
+[google]:https://www.google.com
 
 
 15. write Image?  how many style.
-![cat](car.png)
+![catlocal](cat.png)
+herer cat [cat view][cat] 
 
-image here [cat image] [cat]
-
-[cat]:https://www.cat.com/cat.png
+[cat]:https//www.cat.com/cat.png
 16. write URL and email?
-<a@gmai.com>
+<abc@gmial.com>
 <https://www.google.com>
-17. Which are the Extended Syntax?
+
+17. What is the Extended Syntax? ?
+
+table

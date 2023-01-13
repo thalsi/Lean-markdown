@@ -97,7 +97,7 @@ ___
 this other methord [Git image][image]
 this other moethord [Father][father]
 [iamge]:https://octodex.github.com/images/bannekat.png
-[father]: http://octodex.github.com/images/founding-father.jpg
+[father]: https://octodex.github.com/images/founding-father.jpg
 
 
 
@@ -118,7 +118,15 @@ These elements extend the basic syntax by adding additional features. Not all Ma
   | 1 | Annu |
   | 2 | Tinu |
 
-2. Fenced Code Block
+  - Alignment table
+
+| id          | title       | data          |
+| :---        |    :----:   |          ---: |
+| 1           | annu        | string        |
+| 2           | Tinu        | number        |
+
+
+2. Fenced Code Block (backticks (```) or tildes (~~~))
   ```
   {
     "id":"1",
@@ -133,6 +141,8 @@ These elements extend the basic syntax by adding additional features. Not all Ma
    [^2]: This is a footernote example. 
 
 ### 4.My Great Heading {#custom-id}
+  The HTML looks like this:
+      <h3 id="custom-id">My Great Heading</h3>
 
 5. Definition List
 
@@ -142,6 +152,14 @@ These elements extend the basic syntax by adding additional features. Not all Ma
     Second Term
     : This is one definition of the second term.
     : This is another definition of the second term.
+
+    <dl>
+      <dt>First Term</dt>
+      <dd>This is the definition of the first term.</dd>
+      <dt>Second Term</dt>
+      <dd>This is one definition of the second term. </dd>
+      <dd>This is another definition of the second term.</dd>
+    </dl>
 
 6. Strikethrough
   ~~ delete this line ~~
@@ -159,12 +177,17 @@ These elements extend the basic syntax by adding additional features. Not all Ma
     - This is ==highlight== 
 
 10. Subscript
-
-H~2~o
+  H~2~o
       
 11. Superscript 
+  X^2^
 
-X^2^
+12. Automatic URL Linking
+  http://www.example.com
+
+13. Disabling Automatic URL Linking
+`http://www.example.com`
+
 ___
 ### Practice
 
@@ -184,4 +207,17 @@ ___
 14. Write Link? how many style. 
 15. write Image?  how many style.
 16. write URL and email?
-17. Which are the Extended Syntax?
+17. Which is the Extended Syntax? how many item?
+18. Can you write table?
+19. Can you write Fenced Code Block?
+20. Can you write Footnote?
+21. Can you write custom-id?
+22. Can you write Definition List?
+23. Can you write Strikethrough?
+24. Can you write Task List?
+25. Can you write Emoji?
+26. Can you Highlight?
+27. Can you Subscript?
+28. Can you Superscript?
+29. Can you Automatic URL Linking?
+30. Can you Disabling Automatic URL Linking?
