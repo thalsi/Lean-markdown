@@ -93,9 +93,10 @@ here [click car][car]
 <https://www.google.com>
 17. Which is the Extended Syntax? how many item?
 18. Can you write table? Alignment table?
-|id|name|desp|
-|--|----|----|
-| 1|annu| hi |
+
+| id | name | desp |
+| -- | ---- | ---- |
+|  1 | annu | hi |
 
 |id |name|desp  |
 |:--|:--:|   --:|
