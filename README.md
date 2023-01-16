@@ -180,7 +180,7 @@ These elements extend the basic syntax by adding additional features. Not all Ma
   H~2~o
       
 11. Superscript 
-  X^2^
+  X^2^  
 
 12. Automatic URL Linking
   http://www.example.com
