@@ -1,1 +1,150 @@
- Practice 1
+1. What is the markdown?
+markdown language is a open socure
+plan text converts to rich html
+rich html is storing documentions. like doc ot odt
+html is more option and fixlible and relablity . rich html such as like bold and italc . plan text jest format text
+
+2. Can you write some file extension? (6)
+.mkd
+.mrkdown
+.mdown
+.md
+
+3. How many sytax types?
+basic type and extended
+
+4. Can you write all Basic syntax?
+link
+header
+image
+bold and italic 
+code
+bolckqoutes
+url and email
+
+5. Can you write Heading? how many style?
+# Header
+## Header
+6. Can you write Bold?
+__bold__
+**bold**
+7. Can you write Italic. how many style?
+_italic_
+*italic*
+
+8. Write Blockquote?
+> "bolck qoute"
+9. How many listing type?
+order list and un order-list
+
+10. Can you write order list. and nexted order list?
+1. item
+    1. inner item
+    2. inner item
+2. item
+
+11. Can you write un order list? different methords and nexted?
+
+* item
+    * inner item
+* item
+
+- item
+    - inner item
+    - inner item
+- item
+
++ item
+    + inner item
++ item
+
+12. Write single-code and double-code?
+`code here`
+`` double `code` here``
+
+13. Write Horizontal Rule? how many style?
+___
+---
+***
+14. Write Link? how many style. 
+[google](https://www.google.com)
+*[google](https://www.google.com)*
+here go hader [`click haeder`](#header)
+here use [git clik][git]
+
+[git]:https://www.gitlab.com
+
+15. write Image?  how many style.
+![cat](cat.png)
+here [car]
+
+[car]:https://www.car.com/car.png
+16. write URL and email?
+
+<https://www.google.com>
+<a@gmail.com>
+
+17. Which is the Extended Syntax? how many item?
+table
+
+18. Can you write table?
+| id | name | des |
+| --- | --- | ---- |
+| 1 | name | despc |
+
+| id | name | desp |
+| :-- | :---: | ---: |
+| 1 | name | despc |
+
+
+19. Can you write Fenced Code Block?
+~~~
+{
+    'id':1
+}
+~~~
+
+```
+{
+    name:title
+}
+```
+
+20. Can you write Footnote?
+here footnote [^1]
+
+[^1]: this is footnote
+
+21. Can you write custom-id?
+
+### Header {#h-id}
+
+<h3 id="h-id">Header</h3>
+22. Can you write Definition List?
+    
+    Defintion
+    : The is one 
+
+    Section
+    : this are new set
+
+23. Can you write Strikethrough?
+ ~~~ this ~~~
+24. Can you write Task List?
+    [x] this
+    [ ] item
+
+25. Can you write Emoji?
+    here i ma :joy:
+26. Can you Highlight?
+    == higlinght ==
+
+27. Can you Subscript?
+    H~2~O
+
+28. Can you Superscript?
+    X^2^
+29. Can you Automatic URL Linking?
+https://www.googel.com
+30. Can you Disabling Automatic URL Linking?
+`https://www.googel.com`
