@@ -1,140 +1,127 @@
-
 1. What is the markdown?
-markdown language is a open scoure
-rich htnl is sotrings documention. like doc
-plan text just documetnion html is more fixble and more option . rich html is more option such as bold and italic
+- Markdown is open scoure langeuage
 2. Can you write some file extension? (6)
-. mkd
-.markdown
+.mkd
 .md
-
+.markdown
+.mdown
 3. How many sytax types?
-basic sytax
-extended sytax
-
+base type and extecieted type
 4. Can you write all Basic syntax?
-Header
 link 
-order and un order
-bold and italic
+Header
 code 
-bolckqouters
-horiztial line
-url and emial
-image
+bockqouces
+list 
+bold and italic
+url and email
 
 5. Can you write Heading? how many style?
 # Header
 6. Can you write Bold?
 __bold__
 **bold**
+
 7. Can you write Italic. how many style?
 _italic_
 *italic*
+
 8. Write Blockquote?
-> "it is bolcode"
+> "i think"
 9. How many listing type?
-two
+order and un-order
 10. Can you write order list. and nexted order list?
 1. item
-    1. inner ite,
-2. itrwm
+    1. item
+2. item
+
 11. Can you write un order list? different methords and nexted?
-+ item
-    + inner
-+ item
-
-* inner
-    * inner
-* inner
-
 - item
     - item
-- itme
+- item
+
++ item
+    + item
++ item
+
+* item
+    * item
+* item
 12. Write single-code and double-code?
 `code`
-`` it `code` he``
+`` code is `code` code``
 13. Write Horizontal Rule? how many style?
-***
----
 ___
-14. Write Link? how many style. 
- here [google](https://www.google.com)
+---
+***
 
- headder [`Hader clik`](#header)
-her e [click car][car]
- [car]:https:ww.car.com
+14. Write Link? how many style. 
+ here [google click](https://www.ggogle.com)
+Hader link [`Header click`](#header)
+here [click gitlab][gitlab]
+[gitlab]:https:www.gitlab.com
 
 15. write Image?  how many style.
-![cat](car.png)
+![localimage](car.png)
 here [car][car]
-
-[car]:https//www.google.com
-
+[car]:https://www.car.com/bm.png
 16. write URL and email?
-<https:www.google.co>
-<a@gima.com>
+<https://www.google.com>
+<a@gmail.com>
 17. Which is the Extended Syntax? how many item?
 table
-fenced code bock 
+superscrpit
+subscrpit
+hilager
+faced code bolck
 
 18. Can you write table?
 | id | name | des |
 | -- | ---- | --- |
-| 1  | ann  |  sd |
+| 1  | name | dd  |
 
 | id | name | des |
-| :-- | :--: | --: |
-| 1  | ann  |  sd |
+|:-- | :----: | ---:|
+| 1  | name | dd  |
 
 19. Can you write Fenced Code Block?
-~~~
-{
-    id:1,
-    name:1
-}
-~~~
 ```
 {
-    id:1,
-    name:1
+    id:1
 }
 ```
+~~~
+{
+    id:3
+}
+~~~
 20. Can you write Footnote?
-
 here [^1]
 
-[^1]: herer there
-
-
+[^1]:footer note
 21. Can you write custom-id?
-### Hader{id}
- <h3 id='id'>Jeade</h3>
-22. Can you write Definition List?
-   
-    Desption
-    :item
-    :item2
+### Hader {#id-1}
+<h3 id="id-1">Hader</h3>
 
-    <dl>
-    <dt></dt>
-    <dd></dd>
-    </dl>
+22. Can you write Definition List?
+    item
+    : one
+    : two
+
 
 23. Can you write Strikethrough?
-~~~ hader ~~
+~~~ here ~~~
 24. Can you write Task List?
-    - [X] HEER
-    - [ ] HEER
-
+    - [x] item
+    - [ ] item2
 25. Can you write Emoji?
     :joy:
 26. Can you Highlight?
- == higet ==
+    == Hig ==
 27. Can you Subscript?
-    H~2~o
+ H~2~o
 28. Can you Superscript?
-x^2^
+ x^2^
 29. Can you Automatic URL Linking?
 https:www.google.com
 30. Can you Disabling Automatic URL Linking?
