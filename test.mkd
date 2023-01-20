@@ -1,128 +1,135 @@
 1. What is the markdown?
-- Markdown is open scoure langeuage
+- markdown language is a open scoure language
 2. Can you write some file extension? (6)
 .mkd
 .md
 .markdown
-.mdown
+,mdown
 3. How many sytax types?
-base type and extecieted type
+tow
 4. Can you write all Basic syntax?
-link 
 Header
-code 
-bockqouces
-list 
+link
+hozintal
+oeder 
 bold and italic
-url and email
+bockqoures
+code
+iamge
 
 5. Can you write Heading? how many style?
 # Header
 6. Can you write Bold?
 __bold__
 **bold**
-
 7. Can you write Italic. how many style?
 _italic_
 *italic*
 
 8. Write Blockquote?
-> "i think"
+> "hi i am "
 9. How many listing type?
-order and un-order
+two type
+
 10. Can you write order list. and nexted order list?
 1. item
-    1. item
+    1. inner item
 2. item
-
 11. Can you write un order list? different methords and nexted?
 - item
-    - item
 - item
-
-+ item
-    + item
-+ item
 
 * item
     * item
 * item
+
++ item
+    + inner item
++ item
 12. Write single-code and double-code?
-`code`
-`` code is `code` code``
+`code `
+`` code `consloe` here``
 13. Write Horizontal Rule? how many style?
 ___
 ---
 ***
 
 14. Write Link? how many style. 
- here [google click](https://www.ggogle.com)
-Hader link [`Header click`](#header)
-here [click gitlab][gitlab]
-[gitlab]:https:www.gitlab.com
+here [google](https://www.gooogle.com)
+here [`ckick](#header)
+
+here [gitlab]
+[gitlab]:https:www.google.com
 
 15. write Image?  how many style.
-![localimage](car.png)
-here [car][car]
-[car]:https://www.car.com/bm.png
+![image](car.png)
+[car][car]
+
+[car]:htttps://www.car.com
+
+
 16. write URL and email?
-<https://www.google.com>
-<a@gmail.com>
+<url@gmai.com>
+<https:www.gitlab.com>
+
 17. Which is the Extended Syntax? how many item?
 table
-superscrpit
-subscrpit
-hilager
-faced code bolck
+fanced code bolck
+superscript
+subscript
+hilight
+footer
+emoji
 
 18. Can you write table?
 | id | name | des |
 | -- | ---- | --- |
-| 1  | name | dd  |
+| 1  | namu | dep |
 
 | id | name | des |
-|:-- | :----: | ---:|
-| 1  | name | dd  |
+|:-- |:----:| ---:|
+| 1  | namu | dep |
 
 19. Can you write Fenced Code Block?
-```
+~~~
 {
     id:1
 }
+~~~
 ```
-~~~
 {
-    id:3
+    id:2
 }
-~~~
+```
 20. Can you write Footnote?
 here [^1]
-
-[^1]:footer note
+[^1]: hi
 21. Can you write custom-id?
-### Hader {#id-1}
-<h3 id="id-1">Hader</h3>
+# Headeris{#name-id}
 
 22. Can you write Definition List?
-    item
-    : one
-    : two
+    itwme
+    : item1
+    : item2
 
-
+    <dl>
+    <dt>item</dt>
+    <dd>item</dd>
+    </dl>
 23. Can you write Strikethrough?
-~~~ here ~~~
+~~~ hi ~~~
 24. Can you write Task List?
-    - [x] item
-    - [ ] item2
+- [x] iremw
+- [ ] item2
 25. Can you write Emoji?
     :joy:
 26. Can you Highlight?
-    == Hig ==
+    == hilighter ==
 27. Can you Subscript?
- H~2~o
+H~2~O
 28. Can you Superscript?
- x^2^
+X^2^
 29. Can you Automatic URL Linking?
-https:www.google.com
+Https:www.gooogle.com
 30. Can you Disabling Automatic URL Linking?
-`https:www.google.com`
+`Https:www.gooogle.com`
