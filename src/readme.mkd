@@ -1,0 +1,5 @@
+[ ] What is markdown language?
+
+    - Markdown language is a open-scoure mrakup languare (A markup language is a set of rules that defines how the layout and presentation of text and images).
+    - Plan text converts to a Rich HTML document.
+    

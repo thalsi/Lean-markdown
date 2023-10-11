@@ -96,7 +96,7 @@ ___
 
 this other methord [Git image][image]
 this other moethord [Father][father]
-[iamge]:https://octodex.github.com/images/bannekat.png
+[image]:https://octodex.github.com/images/bannekat.png
 [father]: https://octodex.github.com/images/founding-father.jpg
 
 
