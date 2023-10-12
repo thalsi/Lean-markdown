@@ -1,5 +1,7 @@
-[ ] What is markdown language?
+1. What is markdown language?
+    - Markdown is a opensource lightweight mrakup language.
+    - What is markup language? markup is a text-encoding system. used to stucture and format text.
+    - What is text-encoding system? endcoding is a method or process of coverting a series of characters.letters, numbers, punctuation, and symbols into a special or unique format for transmission or storage in computers. Data is represented in computers using ASCII, UTF8, UTF32, ISCII, and Unicode encoding schemes. 
+2. Why? Where is use markdown language? 
 
-    - Markdown language is a open-scoure mrakup languare (A markup language is a set of rules that defines how the layout and presentation of text and images).
-    - Plan text converts to a Rich HTML document.
-    
+   
