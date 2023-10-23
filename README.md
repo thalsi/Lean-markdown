@@ -1,223 +1,235 @@
 # Markdown
-- Markdown is a open-scoure markup language
-- Plain text that converts to a Rich HTML document
-- Rich Text is a format for storing documents. look like DOC or ODT
 
-- If you need advanced functionality with flexible styling options or you want to use a fancy email signature, use the HTML format. If you're only looking for adjustable text options, such as italics or bolding, use the Rich Text format. When you just want text and no other options, you can use the Plain Text format.
+1. What is markdown language? Why? Where?
+    - Markdown is a opensource,lightweight and mrakup language.
+    - Plan text that converts to a Rich HTML document.
+    - Rich Text is a format for storing documents. look like DOC or ODT
+    - If you need advanced functionality with flexible styling options or you want to use a fancy email signature, use the HTML format. If you're only looking for adjustable text options, such as italics or bolding, use the Rich Text format. When you just want text and no other options, you can use the Plain Text format.
+2. What is markup language? 
+    - markup is a text-encoding system. used to stucture and format text.
 
+3. What is text-encoding system? 
+    - Endcoding is a method or process of coverting a series of characters.letters, numbers, punctuation, and symbols into a special or unique format for transmission or storage in computers. Data is represented in computers using ASCII, UTF8, UTF32, ISCII, and Unicode encoding schemes. 
+
+4. where is use markdown language?
+    - Markdown is widely used for blogging, documentation pages and readme files.
+ 
 ## File Extension
 - .markdown
 - .md
 - .mkd
 - .mkdown
-- .text
 - .mdown
+- .text
+   
+## Cheat sheet
 
-## Cheat Sheet
-1. Basic Syntax
-2. Extended Syntax
-  
-## 1.Basic Syntax
+1. Basic syntax
+    1. Heading (6)
+    2. Bold (2)
+    3. Italic (2)
+    4. Blockquote
+    5. Ordered List
+    6. Unordered List (3)
+    7. code (2)
+    8. Horizontal Rule (3)
+    9. Link 
+        - link
+        - bold link 
+        - italic link
+        - section link
+        - declaration link
+    10. Image
+        - Image
+        - declaration link
+    11. URLs and Addresses
+
+2. Extended syntax
+    1. Table
+        1. normal
+        2. Alignemnt table (3)
+    2. Fenced code block (2)
+    3. Footnote
+    4. My Great heading
+    5. Definition List
+    6. Strikethrough
+    7. Task List
+    8. Emoji
+    9. Highlight
+    10. Subscript
+    11. Superscript
+    12. Automatic URL linking
+    13. Diabling Automatic URL linking
+
+
+## Basic syntax
 
 1. Heading
-      # Title
-      ## Title
-      ### Title
-      #### Title
-      ##### Title
-      ###### Title
+    # Heading
+    ## Heading
+    ### Heading
+    #### Heading
+    ##### Heading
+    ###### Heading
 
 2. Bold
+    1. **Bold text**
+    2. __Bold text__
 
-      **Bold text**
-      __Bold text__
 3. Italic
-
-      *Italic text*
-      _Italic text_
+    1. *Italic text*
+    2. _Italic text_
 
 4. Blockquote
-  
-  > "I am a superman. i can do anything.." 
+    > "Write a short blockquote here."
 
-5. Ordered List
-    1. One
-    2. Two
-    3. Three
-        1. One
-        2. Two
-    
+5. Ordered list
+    1. Item 1
+    2. Item 2
+        1. Item 2.1
+        2. Item 2.2
+    3. Item 3
+    4. Item 4
 
-6. Unordered List
-    - One
-       - a
-       - b
-    - Two
-    - Three
-    
-    * One
-    * Two
-    * Three
-    
-    + One
-    + Two
-    + Three
+6. Unordered list
+    - item 1
+    - item 2
+        - item 1
+        - item 2
+    - item 3
+
+    * item 1
+    * item 2
+    * item 3
+
+    + item 1
+    + item 2
+    + item 3
 
 7. Code
-  `var str = "javascprit";`
-  `console.log(str);`
-  
-  
-  `` this is javascprit `console.log(str);` it is a debug tool``
 
-8. Horizontal Rule
+` Javascprit is a most popular language let a=0; b=4;`
+
+``Please use this `consloe.log()` for the debuging``
+
+8. Horizontal rule
+
 ---
-***
 ___
 
+***
+
 9. Link
--Goolge click link [google](https://www.google.com)
+- [google](https://www.google.com)
+- **[google](https://www.google.com)**
+- *[google](https://www.google.com)*
+- [`Basic section navigate`](#basic-syntax)
 
-- Formatting Links below:-
-- Google link **[Click Google](https://www.google.com)**
-- Google link *[Click Google](https://www.google.com)*
-- Section link [`Cheat sheet`](#cheat-sheet)
+- Here click link [Google link]
+- Here click link [Facebook link]
 
-- Here link 1 google [link 1]
-- Here link 2 gitlab [link 2]
-
-
-[link 1]: https://www.google.com
-[link 2]: https://www.gitlab.com
-
+[Google link]: https://www.google.com
+[Facebook link]: https://www.facebook.com
 
 10. Image
-![alt text](login-bg.png)
+- ![cat](./assets/images/cat.jpg)
 
-this other methord [Git image][image]
-this other moethord [Father][father]
-[image]:https://octodex.github.com/images/bannekat.png
-[father]: https://octodex.github.com/images/founding-father.jpg
+- declation image [Cat image][cat]
+- declation url image [Url image][url image]
 
+[cat]:./assets/images/cat.jpg
+[url image]:https://octodex.github.com/images/founding-father.jpg
 
 
 11. URLs and Email Addresses
 
-<https://www.markdownguide.org>
+<https://www.google.com>
 
-<fake@example.com>
+<myemail@gmail.com>
 
 
-## 2.Extended Syntax
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+## Extended Synstx
+These elements extend the basic syntax by adding additional features.
+Not all markdown applications support these elements.
 
 1. Table
 
-  | ID | Title |
-  | --- | ---- |
-  | 1 | Annu |
-  | 2 | Tinu |
+| Title | Descption |
+|-------|-----------|
+| Auun  | Kids      |
+| Ali   | Kids      |
 
-  - Alignment table
+| Id | Title | Genter |
+|:---| :---: |    ---:|
+| 1  | Annu  | Female |
+| 2  | Ali   | Male   |
 
-| id          | title       | data          |
-| :---        |    :----:   |          ---: |
-| 1           | annu        | string        |
-| 2           | Tinu        | number        |
+2. Fenced Code block
 
+```
+{
+    id:2,
+    title:name
+}
+```
 
-2. Fenced Code Block (backticks (```) or tildes (~~~))
-  ```
-  {
-    "id":"1",
-    "name:"Manu"
-  }
-  ```
+~~~
+{
+    id:2,
+    name:ali mon
+}
+~~~
+
 3. Footnote
 
-   Here a sentace with footnote. [^1] [^2]
-    
-   [^1]: This is a footernote.
-   [^2]: This is a footernote example. 
+Footnote here click here [^1] [^2] [^google]
 
-### 4.My Great Heading {#custom-id}
-  The HTML looks like this:
-      <h3 id="custom-id">My Great Heading</h3>
+[^1]: This is a footnote 1
+[^2]: This is a footnote 2
+[^google]: Google is a sreach engg
+
+4. My great heading 
+
+#### My Custom Heading {#custom-id}
+- here click to custom id set link:
+<h4>custom-id use linking here .plase click here</h4>
 
 5. Definition List
 
-    First Term
-    : This is the definition of the first term.
+<dl>
+<dt>Heading 1</dt>
+    <dd>Despction for the heading 1</dd>
+<dt>Heading 2</dt>
+    <dd>Despction for the heading 2</dd>
+</dl>
 
-    Second Term
-    : This is one definition of the second term.
-    : This is another definition of the second term.
+6. Strickthrough
 
-    <dl>
-      <dt>First Term</dt>
-      <dd>This is the definition of the first term.</dd>
-      <dt>Second Term</dt>
-      <dd>This is one definition of the second term. </dd>
-      <dd>This is another definition of the second term.</dd>
-    </dl>
+~~ delete this line ~~
 
-6. Strikethrough
-  ~~ delete this line ~~
-  
-7. Task List
-    - [x] Task one do it.
-    - [ ] Task two do it.
-    - [ ] Task three do it.
+7. Task list
+
+[x] Task 1
+[] Task 2
+[x] Task 3
 
 8. Emoji
-   - That is so funny! :joy:  
-   - [Emoji is here](https://emojipedia.org/)
- 
-9. Highlight
-    - This is ==highlight== 
+- This is Emoji :joy:
+- [Emoji is here](https://emojipedia.org/)
 
-10. Subscript
-  H~2~o
-      
-11. Superscript 
-  X^2^  
+9. Highlight
+ This line is ==Highlight== 
+
+10. Subscrpit
+H~2~O
+
+11. Superscprit
+X^2^
 
 12. Automatic URL Linking
-  http://www.example.com
+https://www.google.com
 
-13. Disabling Automatic URL Linking
-`http://www.example.com`
+13. Disabling Automatic URL linking
+`https://www.google.com`
 
-___
-### Practice
 
-1. What is the markdown?
-2. Can you write some file extension? (6)
-3. How many sytax types?
-4. Can you write all Basic syntax?
-5. Can you write Heading? how many style?
-6. Can you write Bold?
-7. Can you write Italic. how many style?
-8. Write Blockquote?
-9. How many listing type?
-10. Can you write order list. and nexted order list?
-11. Can you write un order list? different methords and nexted?
-12. Write single-code and double-code?
-13. Write Horizontal Rule? how many style?
-14. Write Link? how many style. 
-15. write Image?  how many style.
-16. write URL and email?
-17. Which is the Extended Syntax? how many item?
-18. Can you write table?
-19. Can you write Fenced Code Block?
-20. Can you write Footnote?
-21. Can you write custom-id?
-22. Can you write Definition List?
-23. Can you write Strikethrough?
-24. Can you write Task List?
-25. Can you write Emoji?
-26. Can you Highlight?
-27. Can you Subscript?
-28. Can you Superscript?
-29. Can you Automatic URL Linking?
-30. Can you Disabling Automatic URL Linking?
