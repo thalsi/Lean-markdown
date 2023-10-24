@@ -203,7 +203,7 @@ Footnote here click here [^1] [^2] [^google]
     <dd>Despction for the heading 2</dd>
 </dl>
 
-6. Strickthrough
+6. Strikethrough
 
 ~~ delete this line ~~
 

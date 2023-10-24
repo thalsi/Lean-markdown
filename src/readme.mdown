@@ -1,0 +1,189 @@
+# What is markdown
+- Markdown is a opensoucre lightwight markup languague.
+- plan text convert to Rich html document
+- What is markup langauge?
+    - markup langauge is text-encoding system . used to structer and format text.
+
+- What is system encoding?
+    - Encoding is amothrod or process of converting a serices of characters.
+    we can use encoding UTF32, ASCII.
+
+- Where is use markdown langauge?
+    - Markdown is widly used for bogging, docuementation pages and readme files.
+
+## File extension
+- .markdown
+- .md
+- .mkd
+- .mdown
+- .mkdown
+- .text
+
+## Cheat sheet
+
+1. Basic syntax
+    1. Heading (6)
+    2. Bold (2)
+    3. Italic (2)
+    4. Blockquote
+    5. Orderded List
+    6. Unorderd List (3)
+    7. Horizonal Rule (3)
+    8. Link
+        - Normal link
+        - bold link 
+        - italic link
+        - section link
+        - Dectration link
+    9. code
+    10. Image
+        - Normal Image
+        - Dectration image
+    11. URLs and Address
+
+## 1.Heading
+
+# Haeding 1
+## Haeding 1
+### Haeding 1
+#### Haeding 1
+##### Haeding 1
+###### Haeding 1
+
+## 2. Bold
+
+__bold__
+**bold**
+
+## 3. Italic
+_Italic_
+*Italic*
+
+## 4. Blockquote
+
+> "Hi.. i am a bockquote"
+
+## 5. code
+
+`let a=0;`
+`` let a=0; `consloe.log()` this is a debug``
+
+## 6. Horizonal Rule 
+
+***
+---
+___
+
+## 7. Link
+- [google](https://www.google.com)
+- *[google](https://www.google.com)*
+- **[google](https://www.google.com)**
+- [`section link`](#7-link)
+- Decration link here [google]
+
+[google]: https://www.gooogle.com
+
+10. Image
+![cat](../assets/images/cat.jpg)
+- here new link [ Cat iamge local ][cat]
+- Url base image preview [Git logo][git]
+
+[cat]:/assets/images/cat.jpg 
+[git]:https://octodex.github.com/images/founding-father.jpg
+
+11. URLs and Email Adreesses
+
+- <https://www.google.com>
+- <example@gmail.com>
+
+
+## 2. Extentes System
+1. Table
+    1. Noraml table
+    2. Alignemnt table(3)
+2. Fenced code block(2)
+3. footnote
+4. My Great heading
+5. Definition list
+6. Strikethrought
+7. Task list
+8. Emoji
+9. Highlight
+10. Subscrpit
+11. Superscrpit
+12. Automatic URL linking
+13. Diabling Automatic url linking
+
+
+## 1. Table
+
+| id | Name |
+|----|------|
+| 1  | annu |
+
+
+|Roll number | Name | age |
+|:---        ||:---:| ---:|
+|1           | annu | 34  |
+
+## 2. Fenced Code block
+
+~~~
+{
+    id: 34,
+    name: frist name
+}
+~~~
+
+```
+{
+    id:45,
+    frist_name:'name of king'
+}
+```
+
+3. Footnote
+
+- Here is a footnote [^1]
+
+[^1]: this is a footnote here.
+
+## 4. My Great heading {#custom-id}
+
+<h4 id="custom-id">My Great Heading</h4>
+
+## 5. Definition List
+
+<dl>
+<dt>Heading</dt>
+<dd>Here the heswading destion</dd>
+</dl>
+
+## 6.Strikethrough
+
+~~ hight~~
+## 7. Task List
+
+[x] Task
+[ ] task 2
+[ ] Task 3
+
+## 8. Emoji
+- this emji :joy:
+## 9. Highlight
+
+==highlight==
+
+## 10.sub scrpit
+
+H~2~O
+
+## 11. superscprit
+x^2^
+
+## 12. Automatic URL linking
+https://www.google.com
+
+## 13. Diable Automatic URL linking
+`https://www.google.com`
+
