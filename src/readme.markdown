@@ -1,50 +1,34 @@
-1. What is markdown langauge?
-    - Markdown langauge is a openscoures lightwight markup lanaguage.
-    - markdown langauge is convert plan text to Rich HTML.
-2. What is markup language?
-    - Markup language is a text-encoding system. used to text-format and structing
-3. What is text-encoding?
-    - Text-encoding is a methrod or process. srices charters convert to unique format. ASCII, UTF8, UTF32, ISCII and unicode encoding
-4. Where is use markdown language?
-    - Markdown langauge is widely use blogging,
-    documentation pages and readme files,
-5. Example of markup language?
-    html, readme file , XML
+1. What is markdown language?
+    - Markdown langauge is a openscoures, lightwight markup lanaguage
+    - plan text convert to RIch html
+2. What is markup langauge?
+    - markdown is text-encoding system. used to text-format and  structer
+- What is the text-encoding?
+    - text-encoding is a serices of charcter convert to unique format. ASCII, UTF32
 
-2. File Extemsion
-1. .md
-2. .mkdown
-3. .markdown
-4. .mkd
-5. .mdown
-6. .text
+## File Extencenecs
+.mkd
+.markdown
+.mdown
+.md
+.text
+.mkdown
 
-3. Cheat sheet
-1. Basic syntax
-2. Extented synatx
+## Cheat cheet
+1. Basic Syntax
+    1. Heading -6
+    2. Bold 2
+    3. Italic 2
+    4. blockquote
+    5. code 
+    6. oderded list
+    7. unorderd list
+    8. Horiznal Rule
+    9. Link
+    10. image 
+    11. Address and URLs
 
-1. Basic syntax
-    1. Heading (6)
-    2. Bold (2)
-    3. Italic (2)
-    4. Blockquotes
-    5. code
-    6. Ordered List
-    7. Unorderd List (3)
-    8. Link  
-        1. normal link
-        2. section link
-        3. Declreation link
-        4. bold link
-        5. Italic link
-    9. Horizonal Rule (3)
-    10. Image
-        1. normal image
-        2. declation image
-    11. URLs and Address
-
-## 1. Heading
-
+## 1.Heading
 # Heading
 ## Heading
 ### Heading
@@ -57,144 +41,75 @@
 __bold__
 
 ## 3. Italic
-*Italic*
 _italic_
+*Italic*
 
-## 4. Blockquote
+## 4. blockquote
 
-> "Here i am a block qoute"
+> "Here i am done me"
 
-## 5. Ordered List
+## 5. code
 
-1. Item
-2. Item
-    1. Item
-    2. Items
+`` use the code  `code` loock``
+`link in the here`
 
-## 6. Unodered List
+## 5. odered list
+1. item
+2. item
+     1. item
+     2. item
+3. item
 
-* Item
-    * Item
-* Item
 
-- Item
-- Item
+## 6. unorderd list
+- item
+- item
 
-+ Item
++ item
 + item
 
-## 7. Code
+* item
+* item
 
-`here is new code linke`
-`` i a a new `here is new code linke` code here``
+## 7.horizonal Rule
 
-## 8. Horizonal line
-
-___
 ---
+___
 ***
 
-## 9. Link
+## 8. link
 
 [google](https://www.google.com)
-[`section link`](#1-heading)
-[click here[google link]
+[`section link`](#1heading)
+here have link- [declartion]
 
-[google link]: https://www.google.com
+[declartion]:https://www.google.com
 
-## 10. image
+## 9. image
 
-![image](/assets/images/cat.jpg)
+![cat](/assets/images/cat.jpg)
+here [bot Image Display][bot]
 
--delaction image [Cat][cat]
+[bot]:/assets/images/cat.jpg
 
-[cat]:/assets/images/cat.jpg
-
-## 11. URL and Addresses
+## 10. urls and Address
 
 <email@gmail.com>
-<https://www.goolge.com>
+<https://www.google.com>
 
 
-# Extented Sytax
+# Excended Syntax
+
 1. Table
-2. Task list
-3. supscprit
-4. superscprit
-5. Automatic Url linking
-6. dialbe automatic Url linking
-7. code block
-8. Hightlight
-9. strikethrough
-10. Defination list
-11. Emoji
-12. footnote
-13. My Great heading
-
-# table
-
-|id | name|
-|---|-----|
-|1 | ali  |
-
-
-| id | name | age |
-|:---|:----:| ---:|
-| 1  | akila|  32 |
-
-## Fanced code block
-
-~~~
-{
-    name: title
-}
-~~~
-
-```
-{
-    name : 'frist name'
-}
-```
-
-## 3. Footnote
-- user can seen [^1] the footnote
-
-[^1]: here is the foot note
-
-## 4. My Great heading
-
-## haeding {#custom-d}
-
-<h3 id="custom-d">Hading</h3>
-
-## 5. Defintion list
-
-<dl>
-    <dt>Title</dt>
-    <dd> here dection see you</dd>
-</dl>
-
-## 6. strikethrought
-
-~~strickthrouht~~
-
-## 7. Hightlight
-==hightlight==
-
-## 8. Task list
-
-[x] items 1
-[ ] items
-[ ] items 3
-
-## 9. subscprit
-    h~2~o
-## 10 superscprit
-    x^2^
-## 11. Automatic usl linking
-    https://www.google.com
-## 12. Automatic usl linking
-    `https://www.google.com`
-## 13 .Emoji
-
-    here the :joy:
+2. fanced code block
+3. supscrpit
+4. supersrpit
+5. hightlight
+6. strickthought
+7. automatic url
+8. disable automatic url
+9. my great heading
+10. Emoji
+11. Footnote
+12. Defintion list
+13. Task list
