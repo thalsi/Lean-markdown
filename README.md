@@ -209,9 +209,9 @@ Footnote here click here [^1] [^2] [^google]
 
 7. Task list
 
-[x] Task 1
-[] Task 2
-[x] Task 3
+- [x] Task 1
+- [ ] Task 2
+- [x] Task 3
 
 8. Emoji
 - This is Emoji :joy:
@@ -232,4 +232,36 @@ https://www.google.com
 13. Disabling Automatic URL linking
 `https://www.google.com`
 
+
+## QA
+
+1. What is Markdown language?
+2. What is Markup language?
+3. What is text encoding?
+4. How many types of file extensions are there? List 6 examples.
+5. List 11 basic syntax elements in Markdown.
+6. How do you write a heading in Markdown? List 6 methods.
+7. How do you write bold text in Markdown? List 2 methods.
+8. How do you write italic text in Markdown? List 2 methods.
+9. How do you write a blockquote in Markdown?
+10. How do you write code in Markdown?
+11. How do you write an ordered list in Markdown?
+12. How do you write an unordered list in Markdown? List 3 methods.
+13. How do you write a horizontal rule in Markdown? List 3 methods.
+14. How do you create a link in Markdown? List 3 methods.
+15. How do you add an image in Markdown? List 2 methods.
+16. How do you format URLs and addresses in Markdown?
+17. What is extended syntax in Markdown? List 13 features.
+18. How do you create a table and perform table alignment in Markdown?
+19. How do you write a fenced code block in Markdown? List 2 methods.
+20. How do you write the phrase "My Great Heading" as a heading in Markdown?
+21. How do you write a definition list in Markdown?
+22. How do you write strikethrough text in Markdown?
+23. How do you write a task list in Markdown?
+24. How do you add an emoji in Markdown?
+25. How do you highlight text in Markdown?
+26. How do you write subscript in Markdown?
+27. How do you write superscript in Markdown?
+28. How does automatic URL linking work in Markdown?
+29. How do you disable automatic URL linking in Markdown?
 

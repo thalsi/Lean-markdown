@@ -2,7 +2,7 @@
     - Markdown langauge is a openscoures, lightwight markup lanaguage
     - plan text convert to RIch html
 2. What is markup langauge?
-    - markdown is text-encoding system. used to text-format and  structer
+    - markdown is text-encoding system. used to text-format and structer
 - What is the text-encoding?
     - text-encoding is a serices of charcter convert to unique format. ASCII, UTF32
 
