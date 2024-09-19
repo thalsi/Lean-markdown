@@ -1,7 +1,7 @@
 # Markdown
 
 1. What is markdown language? Why? Where?
-    - Markdown is a opensource,lightweight and mrakup language.
+    - Markdown is a opensource, lightweight and mrakup language.
     - Plan text that converts to a Rich HTML document.
     - Rich Text is a format for storing documents. look like DOC or ODT
     - If you need advanced functionality with flexible styling options or you want to use a fancy email signature, use the HTML format. If you're only looking for adjustable text options, such as italics or bolding, use the Rich Text format. When you just want text and no other options, you can use the Plain Text format.
@@ -125,8 +125,8 @@ ___
 - *[google](https://www.google.com)*
 - [`Basic section navigate`](#basic-syntax)
 
-- Here click link [Google link]
-- Here click link [Facebook link]
+- Google link is this [Google link]
+- Facebook link is this [Facebook link]
 
 [Google link]: https://www.google.com
 [Facebook link]: https://www.facebook.com

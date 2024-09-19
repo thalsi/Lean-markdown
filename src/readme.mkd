@@ -1,48 +1,126 @@
-# Markdown 
-- What is markdown language?
-    - markdown lanaguage is openscoure lightwight and markup language
-    - strog documenttion and readme files
+## Cheat sheet
 
-- what is markup?
-    - markup language is text-encoding system.
-    - use to text-format and stucter
+1. Basic syntax
+    1. Heading (6)
+    2. Bold (2)
+    3. Italic (2)
+*Italic*
+_Italic_
+    4. Blockquote
+> "I am a softwere engier"
 
-- what is text-encoding system?
+    5. Ordered List
+1. item
+    1. item
+    2. item
+2. item
+    6. Unordered List (3)
++ item
+    + item
+- item
+* item
+    7. code (2)
+    `code is here`
+    `` code is`console.log(data)` here``
+    8. Horizontal Rule (3)
+    ___
+    +++
+    ***
+    9. Link 
+        - link
+        [google](https://www.google.com)
+        - bold link 
+        **[facebook](https://www.facebook.com)**
+        - italic link
+        *[Angualr](https://www.angualr.com)*
+        - section link
+        [`Section Link to the heading`](#heading)
+        - declaration link
+        This is my google declaration link here to click to see [google link]
+        [google link]: https://www.google.com
+        
+    10. Image
+        - Image
+        ![cat](../assets/images/cat.jpg)
+        - declaration link
+        -This is may decartaion cat link [cat_photo]
 
-- encoding is a methord for serices of text convet to unic format 
-- we can use ASCII , UTF32,  
+        [cat_photo]: ../assets/images/cat.jpg
 
-## File extansion
-- .markdown
-- .mdown
-- .mkdown
-- .mrdown
-- .text
+    11. URLs and Addresses
+    <my@gmail.com>
+    <https://www.google.com>
 
-# cheat cheet
-    1. Heading
-    2. Bold
-    3. Italic
-    4. bolockqoute
-    5. code
-    6. order list
-    7. unorder list
-    8. Horzonal Rule
-    9. Url and Adress
-    10. link
-    11. image
-
-## Extened Sytax
+2. Extended syntax
     1. Table
-    2. faceded code block
-    3. subscrpit
-    4. superscpit
-    5. task list
-    6. defintion list
-    7. my great heading
-    8. stricktught
-    9. dethach
-    10.diable Automatic url
-    11. enable automatic url 
-    12. Emoji
-    13. Foofnote
+        1. normal
+        | id | name | value |
+        |---|-------|-----|
+        | 1 | ali  | 34|
+
+        2. Alignemnt table (3)
+        | id | name | value |
+        |:---|:----:|-----:|
+        | 1 | ali  | 34|
+        
+    2. Fenced code block (2)
+    ```
+    my code here...
+    ```
+    ~~~
+    my code here..
+    ~~~
+    3. Footnote
+
+    Footnote write here [^1] [^ChatGTP]
+
+    [^1]: this is a frist footnote you can read
+    [^ChatGTP]: This is chat GTP is grat one
+
+    4. My Great heading
+
+# Custom {#GP}
+- my name GP
+<h4> Hading is here to GP to conncet</h4>
+   
+    5. Definition List
+
+<dl>
+    <dt>Defintion Heading</dt>
+    <dd>Defintion description for</dd>
+</dl>
+    6. Strikethrough
+
+  ~~ delete link marker ~~
+
+    7. Task List
+[x] me
+[ ] two
+[x] three
+
+    8. Emoji
+    :joy:
+
+    9. Highlight
+    ==hihtlight==
+
+    10. Subscript
+    h~2~o
+
+    11. Superscript
+    h^2
+
+    12. Automatic URL linking
+    https://www.google.com
+
+    13. Diabling Automatic URL linking
+    `https://www.google.com`
+
+
+# Heading
+## Heading
+### Heading
+
+
+**BOLD**
+__bold__
