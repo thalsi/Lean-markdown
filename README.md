@@ -50,7 +50,7 @@
         2. Alignemnt table (3)
     2. Fenced code block (2)
     3. Footnote
-    4. My Great heading
+    4. Heading IDs
     5. Definition List
     6. Strikethrough
     7. Task List
@@ -188,11 +188,11 @@ Footnote here click here [^1] [^2] [^google]
 [^2]: This is a footnote 2
 [^google]: Google is a sreach engg
 
-4. My great heading 
+4. Heading IDs 
 
-#### My Custom Heading {#custom-id}
-- here click to custom id set link:
-<h4>custom-id use linking here .plase click here</h4>
+#### Custom Heading IDs 
+- Other websites can link to the heading by adding the custom heading ID to the full URL of the webpage
+- [Heading IDs](https://www.markdownguide.org/extended-syntax#heading-ids)
 
 5. Definition List
 
@@ -254,7 +254,7 @@ https://www.google.com
 17. What is extended syntax in Markdown? List 13 features.
 18. How do you create a table and perform table alignment in Markdown?
 19. How do you write a fenced code block in Markdown? List 2 methods.
-20. How do you write the phrase "My Great Heading" as a heading in Markdown?
+20. How do you write the phrase Heading IDs in Markdown?
 21. How do you write a definition list in Markdown?
 22. How do you write strikethrough text in Markdown?
 23. How do you write a task list in Markdown?
