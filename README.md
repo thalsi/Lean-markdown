@@ -5,6 +5,7 @@
     - Plan text that converts to a Rich HTML document.
     - Rich Text is a format for storing documents. look like DOC or ODT
     - If you need advanced functionality with flexible styling options or you want to use a fancy email signature, use the HTML format. If you're only looking for adjustable text options, such as italics or bolding, use the Rich Text format. When you just want text and no other options, you can use the Plain Text format.
+    
 2. What is markup language? 
     - markup is a text-encoding system. used to stucture and format text.
 
@@ -20,7 +21,6 @@
 - .mkd
 - .mkdown
 - .mdown
-- .text
    
 ## Cheat sheet
 
@@ -236,32 +236,33 @@ https://www.google.com
 ## QA
 
 1. What is Markdown language?
-2. What is Markup language?
-3. What is text encoding?
-4. How many types of file extensions are there? List 6 examples.
-5. List 11 basic syntax elements in Markdown.
-6. How do you write a heading in Markdown? List 6 methods.
-7. How do you write bold text in Markdown? List 2 methods.
-8. How do you write italic text in Markdown? List 2 methods.
-9. How do you write a blockquote in Markdown?
-10. How do you write code in Markdown?
-11. How do you write an ordered list in Markdown?
-12. How do you write an unordered list in Markdown? List 3 methods.
-13. How do you write a horizontal rule in Markdown? List 3 methods.
-14. How do you create a link in Markdown? List 3 methods.
-15. How do you add an image in Markdown? List 2 methods.
-16. How do you format URLs and addresses in Markdown?
-17. What is extended syntax in Markdown? List 13 features.
-18. How do you create a table and perform table alignment in Markdown?
-19. How do you write a fenced code block in Markdown? List 2 methods.
-20. How do you write the phrase Heading IDs in Markdown?
-21. How do you write a definition list in Markdown?
-22. How do you write strikethrough text in Markdown?
-23. How do you write a task list in Markdown?
-24. How do you add an emoji in Markdown?
-25. How do you highlight text in Markdown?
-26. How do you write subscript in Markdown?
-27. How do you write superscript in Markdown?
-28. How does automatic URL linking work in Markdown?
-29. How do you disable automatic URL linking in Markdown?
+2. What is  Rich HTML?
+3. What is Markup language?
+4. What is text encoding?
+5. How many types of file extensions are there? List 5 examples.
+6. List 11 basic syntax elements in Markdown.
+7. How do you write a heading in Markdown? List 6 methods.
+8. How do you write bold text in Markdown? List 2 methods.
+9. How do you write italic text in Markdown? List 2 methods.
+10. How do you write a blockquote in Markdown?
+11. How do you write code in Markdown?
+12. How do you write an ordered list in Markdown?
+13. How do you write an unordered list in Markdown? List 3 methods.
+14. How do you write a horizontal rule in Markdown? List 3 methods.
+15. How do you create a link in Markdown? List 3 methods.
+16. How do you add an image in Markdown? List 2 methods.
+17. How do you format URLs and addresses in Markdown?
+18. What is extended syntax in Markdown? List 13 features.
+19. How do you create a table and perform table alignment in Markdown?
+20. How do you write a fenced code block in Markdown? List 2 methods.
+21. How do you write the phrase Heading IDs in Markdown?
+22. How do you write a definition list in Markdown?
+23. How do you write strikethrough text in Markdown?
+24. How do you write a task list in Markdown?
+25. How do you add an emoji in Markdown?
+26. How do you highlight text in Markdown?
+27. How do you write subscript in Markdown?
+28. How do you write superscript in Markdown?
+29. How does automatic URL linking work in Markdown?
+30. How do you disable automatic URL linking in Markdown?
 
